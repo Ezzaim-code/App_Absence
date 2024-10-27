@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textViewName" type="id">id</item>
+    <item name="textViewCNE" type="id">id0</item>
+    <item name="checkBoxAbsence" type="id">id1</item>
+</resources>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.appgestionabsence.app-mergeDebugResources-42:/layout/content_student_list.xml",
+        "source": "com.example.appgestionabsence.app-main-45:/layout/content_student_list.xml"
+    },
+    {
+        "merged": "com.example.appgestionabsence.app-mergeDebugResources-42:/layout/content_main.xml",
+        "source": "com.example.appgestionabsence.app-main-45:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.example.appgestionabsence.app-mergeDebugResources-42:/layout/activity_student_list.xml",
+        "source": "com.example.appgestionabsence.app-main-45:/layout/activity_student_list.xml"
+    },
+    {
+        "merged": "com.example.appgestionabsence.app-mergeDebugResources-42:/layout/activity_main.xml",
+        "source": "com.example.appgestionabsence.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.appgestionabsence.app-mergeDebugResources-42:/layout/activity_add_class.xml",
+        "source": "com.example.appgestionabsence.app-main-45:/layout/activity_add_class.xml"
+    }
+]

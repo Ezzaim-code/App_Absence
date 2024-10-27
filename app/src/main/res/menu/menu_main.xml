@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <!-- Option pour supprimer une classe -->
+    <item
+        android:id="@+id/action_delete_class"
+        android:title="Supprimer classe"
+        app:showAsAction="never" />
+
+    <!-- Option pour obtenir de l'aide -->
+    <item
+        android:id="@+id/action_help"
+        android:title="Aide"
+        app:showAsAction="never" />
+
+</menu>
